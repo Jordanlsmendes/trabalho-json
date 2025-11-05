@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "nome": "João",
+      "idade": 25,
+      "profissao": "Desenvolvedor"
+    },
+    {
+      "nome": "Maria",
+      "idade": 30,
+      "profissao": "Designer"
+    },
+    {
+      "nome": "Carlos",
+      "idade": 28,
+      "profissao": "Analista de Sistemas"
+    },
+    {
+      "nome": "Ana",
+      "idade": 22,
+      "profissao": "Estudante"
+    }
+  ]
+}
